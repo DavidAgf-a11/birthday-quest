@@ -1,0 +1,10 @@
+{
+  "name": "birthday-quest-level-12",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A small birthday adventure, made with love.",
+  "scripts": {
+    "start": "node serve.mjs"
+  }
+}
